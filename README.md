@@ -64,7 +64,6 @@ The program includes a graphical interface that displays:
 
 
 ---
-
 ## ▶️ Running the Project
 
  **Compile:**
