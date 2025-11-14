@@ -52,7 +52,6 @@ The program includes a graphical interface that displays:
 ## 📁 Project Structure
 
 
-
   ├── Chopstick.java
   ├── Philosopher.java
   ├── DiningPhilosophers.java
@@ -69,7 +68,9 @@ The program includes a graphical interface that displays:
  **Compile:**
  
 javac *.java
+
 **Run:**
+
 java DiningPhilosophers
 
 
