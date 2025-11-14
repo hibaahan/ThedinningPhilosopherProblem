@@ -53,11 +53,17 @@ The program includes a graphical interface that displays:
 📁 Project Structure
 
   ├── Chopstick.java
+  
   ├── Philosopher.java
+  
   ├── DiningPhilosophers.java
+  
   ├── Graphic2D.java
+  
   ├── GraphicChopstick.java
+  
   └── GraphicPlate.java
+  
   └──GraphicTable.java
  
  
