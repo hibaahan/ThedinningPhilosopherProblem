@@ -50,15 +50,16 @@ The program includes a graphical interface that displays:
 ---
 
 ## 📁 Project Structure
-
+📁 Project Structure
 
   ├── Chopstick.java
   ├── Philosopher.java
   ├── DiningPhilosophers.java
   ├── Graphic2D.java
   ├── GraphicChopstick.java
-  ├── GraphicPlate.java
-  └──GraphicPlate.java
+  └── GraphicPlate.java
+  └──GraphicTable.java
+ 
  
 
 
@@ -78,16 +79,25 @@ The GUI will launch and animate the philosophers in real time.
 
 
 **📚 Concepts Demonstrated**
+
 Mutual Exclusion
+
 Thread Synchronization
+
 wait/notify
+
 Semaphores
+
 Resource Ordering
+
 Deadlock Avoidance
+
 Concurrency in Java
 
 
+
 **🧩 Why This Project Matters**
+
 The Dining Philosophers problem is a foundational example in operating systems and concurrency.
 This repository demonstrates how different synchronization techniques affect fairness, starvation, and deadlock prevention — all essential skills for real-world multithreaded software.
 
